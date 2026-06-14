@@ -1,4 +1,4 @@
-# Hi, I'm Shahnawaz Khan 
+# Hi, I'm Shahnawaz Khan 🙂
 
 ### AI Undergraduate
 
