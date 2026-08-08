@@ -4,13 +4,13 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Applied+AI+%26+Software+Engineer;C%2B%2B+Systems+%26+FastAPI+Developer;RAG+Pipelines+%26+MLOps+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE-AI+Student;C%2B%2B+(DSA)+%2B+Python+(Backend)+Developer;Aspiring+Applied+AI+%26+SDE+Engineer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE--AI%20(2025--2029)-8B5CF6?style=flat-square&logo=academicons&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE--AI%20(Graduation%202029)-8B5CF6?style=flat-square&logo=academicons&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Current%20Status-Semester%203-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Semester Badge" />
 
   <br/><br/>
 
@@ -35,16 +35,16 @@
 
 ## 👤 About Me
 
-I am a Software Engineer and Applied AI developer building scalable backend platforms, high-throughput systems, and production-grade Generative AI pipelines. My engineering philosophy follows a **T-Shaped strategy**: combining a deep foundational core in high-performance computing, low-level data structures, and memory management in **C++**, with a versatile vertical layer in distributed microservices, asynchronous execution environments, and RAG/Agentic pipelines using **Python**.
+I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**[cite: 1]. My learning path is structured around a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Development & DSA (using C++) alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps (using Python)[cite: 1].
 
-Focused on building enterprise-grade software with strict operational reliability, predictable latency, and clean design patterns.
+Currently in **Semester 3**, I am mastering C++ STL and dynamic memory management while building asynchronous backend services and Dockerized tooling[cite: 1].
 
-* **Engineering Core:** High-performance algorithm design, asynchronous backend microservices, system isolation, and automated infrastructure.
-* **AI & Applied ML:** Retrieval-Augmented Generation (RAG) architectures, vector spatial indexing, model serialization, autonomous agent orchestration, and operational telemetry.
-* **Product Mindset:** Translating business requirements into robust API contracts, reliable database schema designs, and zero-downtime containerized workflows.
+* **Problem Solving Core:** C++17/20 STL for memory efficiency, execution speed, and clearing coding rounds[cite: 1].
+* **Backend & Systems:** Python 3.10+, FastAPI REST/SSE APIs, Docker containers, and relational/vector storage engines[cite: 1].
+* **Applied AI Specialization:** Building towards LLM orchestration, RAG architectures, and autonomous agent systems (LangGraph)[cite: 1].
 
 ```yaml
 Open To:
-  - Software Development Engineer (SDE) Roles
-  - Applied AI & Backend Engineering Opportunities
-  - Technical Research & Open-Source Collaboration
+  - Technical Collaborations
+  - Open Source Contributions
+  - Peer Learning & Code Reviews
