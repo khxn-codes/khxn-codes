@@ -33,15 +33,16 @@
 
 ---
 
-## 👤 About Me
+## 💫 About Me
 
-I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**. My learning path is structured around a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Development & DSA (using C++) alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps (using Python).
+I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**. My learning path follows a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Engineering & DSA in C++ alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps in Python.
 
-Currently in **Semester 3**, I am mastering C++ STL and dynamic memory management while building asynchronous backend services and Dockerized tooling.
-
-* **Problem Solving Core:** C++17/20 STL for memory efficiency, execution speed, and clearing coding rounds.
-* **Backend & Systems:** Python 3.10+, FastAPI REST/SSE APIs, Docker containers, and relational/vector storage engines.
-* **Applied AI Specialization:** Building towards LLM orchestration, RAG architectures, and autonomous agent systems (LangGraph).
+* 🔭 **I’m currently working on:** Building an **Automated Code Execution Service** using Python, FastAPI, and Docker to run isolated C++ and Python scripts safely.
+* 👯 **I’m looking to collaborate on:** Open-source backend services, asynchronous APIs using FastAPI, or containerized system tooling.
+* 🤝 **I’m looking for help with:** Optimizing low-level memory usage and advanced data structure implementations in C++ STL.
+* 🌱 **I’m currently learning:** Advanced C++ STL (pointers, dynamic memory, custom comparators) and Asynchronous Python with Docker containerization.
+* 💬 **Ask me about:** C++, Python, setting up REST APIs with FastAPI, containerizing applications, or my 2029 Applied AI Engineering roadmap.
+* ⚡ **Fun fact:** I'm building a T-Shaped engineering skill set: mastering C++ for raw performance/DSA speed, and Python for rapid AI system development!
 
 ```yaml
 Open To:
