@@ -35,13 +35,13 @@
 
 ## 👤 About Me
 
-I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**[cite: 1]. My learning path is structured around a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Development & DSA (using C++) alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps (using Python)[cite: 1].
+I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**. My learning path is structured around a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Development & DSA (using C++) alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps (using Python).
 
-Currently in **Semester 3**, I am mastering C++ STL and dynamic memory management while building asynchronous backend services and Dockerized tooling[cite: 1].
+Currently in **Semester 3**, I am mastering C++ STL and dynamic memory management while building asynchronous backend services and Dockerized tooling.
 
-* **Problem Solving Core:** C++17/20 STL for memory efficiency, execution speed, and clearing coding rounds[cite: 1].
-* **Backend & Systems:** Python 3.10+, FastAPI REST/SSE APIs, Docker containers, and relational/vector storage engines[cite: 1].
-* **Applied AI Specialization:** Building towards LLM orchestration, RAG architectures, and autonomous agent systems (LangGraph)[cite: 1].
+* **Problem Solving Core:** C++17/20 STL for memory efficiency, execution speed, and clearing coding rounds.
+* **Backend & Systems:** Python 3.10+, FastAPI REST/SSE APIs, Docker containers, and relational/vector storage engines.
+* **Applied AI Specialization:** Building towards LLM orchestration, RAG architectures, and autonomous agent systems (LangGraph).
 
 ```yaml
 Open To:
