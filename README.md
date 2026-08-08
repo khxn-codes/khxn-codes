@@ -45,7 +45,7 @@ I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting
 * ⚡ **Fun fact:** I'm building a T-Shaped engineering skill set: mastering C++ for raw performance/DSA speed, and Python for rapid AI system development!
 
 ```yaml
-Open To:
-  - Technical Collaborations
-  - Open Source Contributions
-  - Peer Learning & Code Reviews
+Current Semester: Semester 3 (Year 2 - First Half)
+Learning: C++ Advanced STL (pointers, dynamic memory), Python Async, Docker basics
+Building: Automated Code Execution Service in FastAPI & Docker
+Targeting: Applied AI & SDE Roles (Graduation 2029)
