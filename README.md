@@ -1,51 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Shahnawaz%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Shahnawaz%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Shahnawaz Khan - Backend, C++ DSA, Applied AI" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE-AI+Student;C%2B%2B+(DSA)+%2B+Python+(Backend)+Developer;Aspiring+Applied+AI+%26+SDE+Engineer" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://linkedin.com/in/khxn"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" /></a>
+&nbsp;
+<a href="mailto:shaxn1206@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="34" /></a>
+&nbsp;
+<a href="https://github.com/khxn-codes/CampusGuard"><img src="https://img.shields.io/badge/Featured-CampusGuard-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="CampusGuard" height="34" /></a>
 
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE--AI%20(Graduation%202029)-8B5CF6?style=flat-square&logo=academicons&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Current%20Status-Semester%203-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Semester Badge" />
+<br/><br/>
 
-  <br/><br/>
+| 🎓 Education | 🎯 Focus | 🧠 Depth | 🚀 Open To |
+|:---|:---|:---|:---|
+| **B.Tech CSE (AI)**<br/>Class of '29 | **Backend & Containers**<br/>Python · FastAPI · Docker | **Applied AI**<br/>RAG · MLOps · OpenCV | **Collaboration & Open Source**<br/>Backend · Async APIs · Tooling |
 
-  <a href="https://linkedin.com/in/khxn">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shaxn1206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/khxn-codes">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=khxn-codes&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/khxn-codes?style=flat-square&color=7C3AED&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/khxn-codes?style=flat-square&color=6D28D9&label=Total+Stars" alt="Stars" />
 </div>
 
 ---
 
-## 💫 About Me
+## 📌 About
 
-I am a **B.Tech CSE-AI undergraduate student** (Graduation Year: 2029) targeting future roles as an **Applied AI Engineer** and **Software Development Engineer (SDE)**. My learning path follows a **T-Shaped Engineer framework**: building a broad horizontal foundation in Core Software Engineering & DSA in C++ alongside a deep vertical specialization in Applied AI, RAG Systems, & MLOps in Python.
+I'm a B.Tech CSE-AI student building a T-shaped skill set: C++ and DSA for breadth and raw performance, and Python for backend and applied AI depth. I like projects where the system has to be safe, isolated, and reliable, such as running untrusted code in containers or turning camera frames into rule-based alerts.
 
-* 🔭 **I’m currently working on:** Building an **Automated Code Execution Service** using Python, FastAPI, and Docker to run isolated C++ and Python scripts safely.
-* 👯 **I’m looking to collaborate on:** Open-source backend services, asynchronous APIs using FastAPI, or containerized system tooling.
-* 🤝 **I’m looking for help with:** Optimizing low-level memory usage and advanced data structure implementations in C++ STL.
-* 🌱 **I’m currently learning:** Advanced C++ STL (pointers, dynamic memory, custom comparators) and Asynchronous Python with Docker containerization.
-* 💬 **Ask me about:** C++, Python, setting up REST APIs with FastAPI, containerizing applications, or my 2029 Applied AI Engineering roadmap.
-* ⚡ **Fun fact:** I'm building a T-Shaped engineering skill set: mastering C++ for raw performance/DSA speed, and Python for rapid AI system development!
+I'm aiming for Applied AI Engineer and SDE roles after graduating in 2029.
+
+---
+
+## ⚡ Featured Projects
+
+### 01 · CampusGuard: Campus Security Monitoring System
+
+A team project that detects motion on a camera feed, checks it against restricted zones and time rules, and raises severity-rated alerts that escalate up a chain of command.
+
+- **My part:** Built and merged the full OpenCV backend: live webcam capture, frame-diff motion detection with bounding boxes, restricted-zone checks, and an alert engine with after-hours rules and cooldowns.
+- **Stack:** `Python` · `OpenCV`
+- **Repository:** [github.com/khxn-codes/CampusGuard →](https://github.com/khxn-codes/CampusGuard)
+
+---
+
+### 02 · Automated Code Execution Service *(in progress)*
+
+A service that runs C++ and Python scripts in isolated Docker containers behind an async API.
+
+- **Goal:** Safe, sandboxed execution of untrusted code submissions.
+- **Stack:** `Python` · `FastAPI` · `Docker`
+- **Repository:** TODO: add link once pushed
+
+---
+
+## 🛠️ Stack
+
+| Domain | Technologies |
+|:---|:---|
+| **Core & Backend** | `C++` `Python` `FastAPI` `Git` |
+| **Computer Vision** | `OpenCV` |
+| **DevOps** *(Learning)* | `Docker` `Async Python` |
+
+---
+
+## ⚡ Now
 
 ```yaml
-Current Semester: Semester 3 (Year 2 - First Half)
-Learning: C++ Advanced STL (pointers, dynamic memory), Python Async, Docker basics
-Building: Automated Code Execution Service in FastAPI & Docker
-Targeting: Applied AI & SDE Roles (Graduation 2029)
+current_focus:
+  studying:
+    - Advanced C++ STL (pointers, dynamic memory, custom comparators)
+    - Asynchronous Python and Docker containerization
+  building:
+    - Automated Code Execution Service (FastAPI + Docker)
+  help_wanted:
+    - Low-level memory optimization and advanced data structures in C++ STL
+```
+
+---
+
+## 🤝 Open To
+
+| Category | Areas of Interest |
+|:---|:---|
+| **Open Source** | Backend services, async FastAPI APIs, containerized system tooling |
+| **Learning Together** | C++ STL internals, memory-efficient data structures |
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=khxn-codes&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khxn-codes&theme=radical&hide_border=true" alt="Streak" width="48%" />
+
+</div>
