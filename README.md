@@ -137,10 +137,11 @@ Planned: `PostgreSQL` · `Redis` · `JWT` + `bcrypt` · integration tests · `Sc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khxn-codes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true" alt="GitHub stats" height="170" />
+<img src="https://raw.githubusercontent.com/khxn-codes/khxn-codes/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" height="170" />
 <img src="https://streak-stats.demolab.com?user=khxn-codes&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=A78BFA&dates=8B949E" alt="Streak" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khxn-codes&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph" width="96%" />
+<img src="https://raw.githubusercontent.com/khxn-codes/khxn-codes/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" height="170" />
+<img src="https://raw.githubusercontent.com/khxn-codes/khxn-codes/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" height="170" />
 
 <img src="https://ghchart.rshah.org/7C3AED/khxn-codes" alt="Contribution calendar" width="90%" />
 
