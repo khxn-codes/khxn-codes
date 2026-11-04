@@ -110,7 +110,7 @@ A FastAPI service that runs C++ and Python snippets inside isolated Docker conta
 
 `Python` `FastAPI` `Docker` `pytest`
 
-*Repository coming soon*
+[**View repository →**](https://github.com/khxn-codes/automated-code-execution-service)
 
 </td>
 </tr>
